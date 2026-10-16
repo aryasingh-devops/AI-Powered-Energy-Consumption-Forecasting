@@ -1,0 +1,2 @@
+"""Energy consumption forecasting project."""
+
